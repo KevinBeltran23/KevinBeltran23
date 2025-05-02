@@ -25,6 +25,6 @@ Involvement:
     "Cal Poly Distance Club",
   ]
 
-Currently-Learning: ["Docker, Kubernetes, and React Native"]
+Currently-Learning: ["Frontend Development, Networks, Computer Vision"]
 Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"]
 ```
