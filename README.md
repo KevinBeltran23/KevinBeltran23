@@ -7,4 +7,24 @@
 Name: Kevin Beltran
 Located in: San Luis Obispo, CA
 Fields of Interest: Full Stack Development
+Education: Computer Science at Cal Poly SLO
+
+Interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "Distributed Computing",
+  ]
+Involvement:
+  [
+    "Hack4Impact"
+    "Polylink",
+    "Spread Goodness",
+    "Systems Optimization Club",
+    "Mustang Marching Band",
+    "Cal Poly Distance Club",
+  ]
+
+Currently-Learning: ["Docker, Kubernetes, and React Native"]
+Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"]
 ```
