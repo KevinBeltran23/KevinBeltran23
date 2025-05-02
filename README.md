@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20There!&fontSize=80)</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20my%20name%20is%20Kevin%Beltran!&fontSize=50)</p>
 
-<h1 align="center">Hi, I'm Kevin Beltran Monroy</h1>
 <h3 align="center">I am currently a third year studying Computer Science at Cal Poly San Luis Obispo</h3>
 
 - Email: kevinbeltran2437@gmail.com
