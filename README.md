@@ -27,7 +27,7 @@ Interests:
     "Web Development",
     "Machine Learning",
     "Distributed Computing",
-  ]
+  ],
 Involvement:
   [
     "Hack4Impact"
@@ -36,9 +36,8 @@ Involvement:
     "Systems Optimization Club",
     "Mustang Marching Band",
     "Cal Poly Distance Club",
-  ]
-
-Currently-Learning: ["Frontend Development, GoLang, Computer Vision"]
+  ],
+Currently-Learning: ["Frontend Development, GoLang, Computer Vision"],
 Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"]
 ```
 
