@@ -6,7 +6,6 @@
 ```yaml
 Name: Kevin Beltran
 Located in: San Luis Obispo, CA
-Fields of Interest: Full Stack Development
 Education: Computer Science at Cal Poly SLO
 
 Interests:
