@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20There!&fontSize=50)</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey,%20I'm%20Kevin!&fontSize=50)</p>
 
+<h3 align="center">I am currently a third year studying Computer Science at Cal Poly San Luis Obispo</h3>
+
+How to reach me:
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
 
