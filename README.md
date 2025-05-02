@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey,%20I'm%20Kevin!&fontSize=50)</p>
 
-<h3 align="center">I am currently a third year studying Computer Science at Cal Poly San Luis Obispo</h3>
+<h3 align="center">I am currently a third year studying Computer Science at Cal Poly SLO</h3>
 
 How to reach me:
 - Email: kevinbeltran2437@gmail.com
@@ -41,7 +41,7 @@ Involvement:
     "Cal Poly Distance Club",
   ]
 
-Currently-Learning: ["Frontend Development, Networks, Computer Vision"]
+Currently-Learning: ["Frontend Development, GoLang, Computer Vision"]
 Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"]
 ```
 
