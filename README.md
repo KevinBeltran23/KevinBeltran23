@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20There!&fontSize=80)</p>
+<h1 align="center">Hi, I'm Cristian Castro Oliva</h1>
+<h3 align="center">I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinBelran23&label=Profile%20views&color=0e75b6&style=flat" alt="KevinBeltran23" /> </p>
 
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
