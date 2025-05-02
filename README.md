@@ -2,6 +2,10 @@
 
 <h3 align="center">I am currently a third year studying Computer Science at Cal Poly SLO</h3>
 
+How to reach me:
+- Email: kevinbeltran2437@gmail.com
+- LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -18,11 +22,6 @@
 </p>
 
 ```yaml
-Located in: San Luis Obispo, CA
-Education: Computer Science at Cal Poly SLO
-Email: kevinbeltran2437@gmail.com
-LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
-
 Interests:
   [
     "Web Development",
