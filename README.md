@@ -35,5 +35,3 @@ Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"]
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinBeltran23&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-[![Kevin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinBeltran23)](https://github.com/KevinBeltran23/github-readme-stats)
