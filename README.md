@@ -28,3 +28,4 @@ Involvement:
 Currently-Learning: ["Frontend Development, Networks, Computer Vision"]
 Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"]
 ```
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinBeltran23)](https://github.com/KevinBeltran23/github-readme-stats)
