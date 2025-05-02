@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20my%20name%20is%20Kevin%20Beltran!&fontSize=50)</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20There!&fontSize=50)</p>
 
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
