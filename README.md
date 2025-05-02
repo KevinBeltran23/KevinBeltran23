@@ -22,6 +22,7 @@ How to reach me:
 </p>
 
 ```yaml
+About: ["I am currently a third year studying Computer Science at Cal Poly SLO"],
 Interests:
   [
     "Web Development",
