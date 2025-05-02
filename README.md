@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey,%20I'm%20Kevin!&fontSize=30)</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey,%20I'm%20Kevin!&fontSize=40)</p>
 
 How to reach me:
 - Email: kevinbeltran2437@gmail.com
