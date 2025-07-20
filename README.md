@@ -19,26 +19,6 @@ How to reach me:
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-```yaml
-About: ["I am currently a third year studying Computer Science at Cal Poly SLO"],
-Interests:
-  [
-    "Web Development",
-    "Machine Learning",
-    "Distributed Computing",
-  ],
-Involvement:
-  [
-    "Hack4Impact"
-    "Polylink",
-    "Spread Goodness",
-    "Systems Optimization Club",
-    "Mustang Marching Band",
-    "Cal Poly Distance Club",
-  ],
-Currently-Learning: ["Frontend Development, GoLang, Computer Vision"],
-Hobbies: ["Piano", "Distance Running", "Bowling", "Baking"],
-```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KevinBeltran23&show_icons=true&card_width=320" />
