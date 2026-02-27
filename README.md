@@ -4,7 +4,4 @@ Hey :)
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinBeltran23&show_icons=true&theme=radical" alt="Kevin's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinBeltran23&layout=compact&theme=radical" alt="Kevin's Top Langs" width="48%" />
-</p>
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinBeltran23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
