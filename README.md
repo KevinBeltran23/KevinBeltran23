@@ -3,3 +3,5 @@
 Hey :)
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbeltran23)](https://github.com/anuraghazra/github-readme-stats)
