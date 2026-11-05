@@ -2,7 +2,7 @@
 
 Hey :)
 
-Im currently working on Shift AI, my thesis, and finishing up migrating RipFinder app
+Im currently working on my startup bayfillr, my thesis, interning at ATPCO
 
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
