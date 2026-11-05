@@ -2,7 +2,7 @@
 
 Hey :)
 
-Im currently working on my startup bayfillr, my thesis, interning at ATPCO
+I'm currently working on my thesis, and interning at ATPCO, and building my startup bayfillr.
 
 - Email: kevinbeltran2437@gmail.com
 - LinkedIn: [KevinBeltran23](https://www.linkedin.com/in/kevinbeltran23/)
